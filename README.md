@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey Nice to see you here 
 
-<!--
-**olielvewen/olielvewen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal page!
+I'm Olivier, just a linux and open-source user and actor since 2005. I'm too fan of programing and I'm coding 
+from **Vichy**, **France**.
 
-Here are some ideas to get you started:
+## My Favorite tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/%20-Django-23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![PyQt6](https://img.shields.io/badge/%20-PyQt6-brightgreen.svg?style=for-the-badge&logo=pyqt6)![Pyside6](https://img.shields.io/badge/%20-Pyside6-brightgreen.svg?style=for-the-badge&logo=pyside6)![QT 6](https://img.shields.io/badge/%20-QT6-41CD52?style=for-the-badge&logo=qt6&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Sphinx](https://img.shields.io/badge/%20-Sphinx-blue.svg?style=for-the-badge&logo=sphinx&logoColor=white)![PyqtGraph](https://img.shields.io/badge/%20-PyqtGraph-blue?style=for-the-badge&logo=pyqtgraph&logoColor=white)![Html5](https://img.shields.io/badge/Html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Linux Mint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&logo=ubuntu&logoColor=white)![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+## My new future Favorite tools (in training):
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)![Telegraf](https://img.shields.io/badge/telegraf-FAFAFA.svg?style=for-the-badge&logo=telegraph&logoColor=white)![InfluxDB](https://img.shields.io/badge/influxDB-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Poetry](https://img.shields.io/badge/%20-Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)![PyPI](https://img.shields.io/badge/%20-PiPY-%233775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/%20-TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Take a little:
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+## My latest blog posts:
+* [Et si on prenait un peu de Polychromatique ?](https://linuxevolution.wordpress.com/2022/02/04/et-si-on-prenait-un-peu-de-polychromatique/)
+* [Sortie de OpenShot 2.6.1](https://linuxevolution.wordpress.com/2021/09/12/sortie-de-openshot-2-6-1/)
+* [Welcome to Openshot 2.6.0](https://linuxevolution.wordpress.com/2021/09/01/welcome-to-openshot-2-6-0/)
+* [Welcome to OpenShot 2.5.0](https://linuxevolution.wordpress.com/2020/02/11/welcome-to-openshot-2-5-0/)
+* [Me Gamer and Linux User = Impossible Mission ? Not exactly. Part 8](https://linuxevolution.wordpress.com/2019/11/28/me-gamer-and-linux-user-impossible-mission-not-exactly-part-8/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Where to find me
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olielvewen/olielvewen/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-girard-a166b452/)
